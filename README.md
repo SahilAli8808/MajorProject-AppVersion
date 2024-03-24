@@ -4,7 +4,5 @@ This Repo is Application version of our Major Project (ReadForSpeed)
 ## To run your project, navigate to the directory and run one of the following npm commands.
 
 - cd ReadForSpeed
-- npm run android
-- npm run ios # you need to use macOS to build the iOS project - use the Expo app if you need to do iOS development 
-without a Mac
-- npm run web
+- npx expo start
+- download Expo app from playstore and scan the qr code to run the app on your phone.
